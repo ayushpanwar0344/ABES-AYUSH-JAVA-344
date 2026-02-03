@@ -1,0 +1,5 @@
+                       same class         same package        sub class           Everywhere
+public                  yes                yes                 yes                 yes
+protected               yes                yes                 yes                 no
+default (no keywords)   yes                yes                 no                  no
+private                 yes                no                  no                  no

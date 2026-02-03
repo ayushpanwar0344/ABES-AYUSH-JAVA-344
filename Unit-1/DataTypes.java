@@ -1,5 +1,5 @@
 public class DataTypes {
-    public static void main(String[] args) {
+    public static void main(String[] args) { // Java is not completely object oriented as it contains primitive data types (small talk is completely object oriented)
         // Primitive Data Types
         int intVar = 100;               //default value = 0
         float floatVar = 10.5f;         //default value = 0.0f
