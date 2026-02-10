@@ -1,6 +1,7 @@
 public class AddReturn {
 
     //Method overloading with return type
+    //run at compile time
     
     int add(int a, int b) {
         return a+b;
