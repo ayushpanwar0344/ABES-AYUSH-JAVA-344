@@ -1,7 +1,7 @@
 public class Array {
-    int[] arr;
+    //int[] arr;
 
-    arr = new int[5]; // Declaration and instantiation
+    int[] arr = new int[5]; // Declaration and instantiation
 
     int[] ar = {1, 2, 3, 4, 5}; // Declaration, instantiation and initialization
 
